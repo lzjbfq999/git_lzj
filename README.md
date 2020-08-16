@@ -1,5 +1,5 @@
-## 机器学习之决策树
-## [目录(decision_Tree)](https://github.com/lzjbfq999/git_lzj/blob/master/decision_tree.md)
+## [机器学习之决策树](https://github.com/lzjbfq999/git_lzj/blob/master/decision_tree.md)
+## 目录(decision_Tree)
 ### 1、决策树是什么
 #####   1.1 机器学习
 #####   1.2 损失函数
