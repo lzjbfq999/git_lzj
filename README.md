@@ -1,4 +1,3 @@
-# git_lzj
 ## 机器学习之决策树
 ## [目录(decision_Tree)]https://github.com/lzjbfq999/git_lzj/blob/master/decision_tree.md
 ### 1、决策树是什么
@@ -14,4 +13,4 @@
 ### 4、总结学习
 #####   4.1 决策树三种常用算法的区别于联系
 #####   4.2 决策树的优缺点分析
-##### [游戏用户流失预测的决策树模型构建]https://github.com/lzjbfq999/git_lzj/blob/master/decision_tree_code.md
+*.[游戏用户流失预测的决策树模型构建].(https://github.com/lzjbfq999/git_lzj/blob/master/decision_tree_code.md
