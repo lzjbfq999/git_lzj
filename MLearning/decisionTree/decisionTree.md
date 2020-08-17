@@ -1,4 +1,4 @@
-<div align=center> ![image-20200813150653246](decisionTree.assets/image-20200813150653246.png)
+![image-20200813150653246](decisionTree.assets/image-20200813150653246.png)
  
 
 决策树是很多刚接触机器学习的小伙伴都会去学习了解的一种方法。但是很多机器学习书本里关于决策树的部分都需要读者具有一定基础才能很好的理解。从机器学习入门的角度出发，分享一下我对决策树的理解，希望对大家有帮助！
@@ -43,7 +43,7 @@ M:是，在税务局上班
 
 D：那好，我去见见！（类别：见）
 
-![image-20200813150626469](decisionTree.assets/image-20200813150626469.png)
+<div align=center> ![image-20200813150626469](decisionTree.assets/image-20200813150626469.png)
 
 图1 内心决策过程
 
