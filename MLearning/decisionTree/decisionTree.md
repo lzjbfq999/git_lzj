@@ -43,7 +43,7 @@ M:是，在税务局上班
 
 D：那好，我去见见！（类别：见）
 
-<div align=center> ![image-20200813150626469](decisionTree.assets/image-20200813150626469.png)</div>
+<div align=center> <![image-20200813150626469](decisionTree.assets/image-20200813150626469.png)></div>
 
 图1 内心决策过程
 
